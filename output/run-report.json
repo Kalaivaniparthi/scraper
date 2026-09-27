@@ -1,0 +1,16 @@
+{
+  "start_time": "2026-09-27T09:11:08.414436+00:00",
+  "duration_seconds": 2.84,
+  "catalogue_pages": 3,
+  "pages_fetched": 1,
+  "cache_hits": 60,
+  "valid_records": 60,
+  "invalid_records": 0,
+  "failed_pages": 1,
+  "failures": [
+    {
+      "url": "https://books.toscrape.com/catalogue/does-not-exist/index.html",
+      "error": "Failed fetch: 404"
+    }
+  ]
+}
